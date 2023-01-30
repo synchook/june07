@@ -1,0 +1,5 @@
+commit fa55b56eb1cb363ddef582d87b030f889851950b
+Author: will <will@june07.com>
+Date:   Mon Jan 30 21:29:51 2023 +0000
+
+    update .gitlab-ci.yml add pages and netlify
