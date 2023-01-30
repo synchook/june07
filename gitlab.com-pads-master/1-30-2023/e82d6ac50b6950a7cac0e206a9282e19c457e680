@@ -1,0 +1,5 @@
+commit e82d6ac50b6950a7cac0e206a9282e19c457e680
+Author: will <will@june07.com>
+Date:   Mon Jan 30 02:33:29 2023 +0000
+
+    revert base64 handling for git_log
