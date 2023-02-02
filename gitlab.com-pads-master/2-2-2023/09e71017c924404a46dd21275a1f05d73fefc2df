@@ -1,0 +1,5 @@
+commit 09e71017c924404a46dd21275a1f05d73fefc2df
+Author: will <will@june07.com>
+Date:   Thu Feb 2 20:41:30 2023 +0000
+
+    update .gitlab-ci.yml add nim alert
