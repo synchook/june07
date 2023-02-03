@@ -1,0 +1,5 @@
+commit 121710ef7b02e49e8577273279a2b83d85f19b6b
+Author: will <will@june07.com>
+Date:   Fri Feb 3 17:37:33 2023 +0000
+
+    update add websocket support for synchook
