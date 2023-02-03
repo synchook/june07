@@ -1,0 +1,5 @@
+commit b4c3fa14a891919e7aacbc07e2d9baf50e252b88
+Author: will <will@june07.com>
+Date:   Fri Feb 3 17:58:18 2023 +0000
+
+    update return type to array for multiple jobs
