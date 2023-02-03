@@ -1,0 +1,5 @@
+commit eadd25bb90a1b949e928af201932e61d9ad0096c
+Author: will <will@june07.com>
+Date:   Fri Feb 3 03:14:09 2023 +0000
+
+    fix empty job state
