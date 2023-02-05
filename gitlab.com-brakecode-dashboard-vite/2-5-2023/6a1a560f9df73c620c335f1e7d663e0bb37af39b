@@ -1,0 +1,5 @@
+commit 6a1a560f9df73c620c335f1e7d663e0bb37af39b
+Author: will <will@june07.com>
+Date:   Sun Feb 5 23:53:30 2023 +0000
+
+    fix build-info check
