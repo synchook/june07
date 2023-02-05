@@ -1,0 +1,5 @@
+commit 8a3c997c79e0671fa5e9ff2fd2e9a13f18d99555
+Author: will <will@june07.com>
+Date:   Sun Feb 5 02:38:00 2023 +0000
+
+    ui fix for safari, add git_log column
