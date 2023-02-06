@@ -1,0 +1,5 @@
+commit 8d0dc07628f493f14b3663925475477370b6027c
+Author: will <will@june07.com>
+Date:   Mon Feb 6 17:21:27 2023 +0000
+
+    update synchook app init to include vault handling
