@@ -1,0 +1,5 @@
+commit 7ff5abca9912a097854bab0e1573f0b479d4d5e1
+Author: will <will@june07.com>
+Date:   Tue Feb 7 19:55:56 2023 +0000
+
+    fix auth redirect
