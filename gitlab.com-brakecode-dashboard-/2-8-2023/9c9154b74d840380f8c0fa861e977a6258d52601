@@ -1,0 +1,5 @@
+commit 9c9154b74d840380f8c0fa861e977a6258d52601
+Author: will <will@june07.com>
+Date:   Wed Feb 8 00:32:27 2023 +0000
+
+    remove unneeded refresh button (websockets)
