@@ -1,0 +1,5 @@
+commit e7a49749bca17b79025b5dee1fb7f7713b73a586
+Author: will <will@june07.com>
+Date:   Thu Feb 9 20:14:43 2023 +0000
+
+    add error handling for inexistent user.
