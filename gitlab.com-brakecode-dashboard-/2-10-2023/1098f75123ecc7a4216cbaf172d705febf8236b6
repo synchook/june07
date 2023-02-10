@@ -1,0 +1,5 @@
+commit 1098f75123ecc7a4216cbaf172d705febf8236b6
+Author: will <will@june07.com>
+Date:   Fri Feb 10 00:39:52 2023 +0000
+
+    add global error handler
