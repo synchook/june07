@@ -1,0 +1,5 @@
+commit aa84bd8b61a60b8862f4104415c8a17f5ea408d5
+Author: will <will@june07.com>
+Date:   Sat Feb 11 18:40:15 2023 +0000
+
+    fix missing id early in the job stage.
