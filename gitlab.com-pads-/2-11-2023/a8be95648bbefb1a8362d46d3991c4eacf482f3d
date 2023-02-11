@@ -1,0 +1,5 @@
+commit a8be95648bbefb1a8362d46d3991c4eacf482f3d
+Author: will <will@june07.com>
+Date:   Sat Feb 11 18:25:40 2023 +0000
+
+    remove job.stage from final redis object
