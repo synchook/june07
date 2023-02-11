@@ -1,0 +1,5 @@
+commit bca8a0712d60c35785f3d210338f8399725e3b1f
+Author: will <will@june07.com>
+Date:   Sat Feb 11 02:41:44 2023 +0000
+
+    replace @auth0/auth0-vue with @667/auth0-vue
