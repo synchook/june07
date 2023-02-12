@@ -1,0 +1,5 @@
+commit bb9b5eaeacda1481b58abe746b20d7ec240a4d18
+Author: will <will@june07.com>
+Date:   Sun Feb 12 20:42:13 2023 +0000
+
+    Update guard.ts to take RedirectLoginOptions
