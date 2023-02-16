@@ -1,0 +1,5 @@
+commit 7d2288feed8a6b681b8d25eaa9cd4db42992462a
+Author: Will <667@onezerohosting.com>
+Date:   Thu Feb 16 13:45:06 2023 -0800
+
+    Update settings and add support for plain ssh
