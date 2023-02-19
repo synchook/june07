@@ -1,0 +1,5 @@
+commit 22685b973c12f9fadc9043224cf64714a8f7feba
+Author: will <667@onezerohosting.com>
+Date:   Sun Feb 19 13:22:27 2023 -0800
+
+    add ssh endpoint for jenkins
