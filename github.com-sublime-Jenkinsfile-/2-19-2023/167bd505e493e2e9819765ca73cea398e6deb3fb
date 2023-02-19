@@ -1,0 +1,5 @@
+commit 167bd505e493e2e9819765ca73cea398e6deb3fb
+Author: Will <667@onezerohosting.com>
+Date:   Sun Feb 19 11:27:53 2023 -0800
+
+    add error display in console area for ssh errors
