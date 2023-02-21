@@ -1,0 +1,5 @@
+commit 03f45f469184d0dc21eb5cd658fb5427ce74929e
+Author: will <will@june07.com>
+Date:   Tue Feb 21 00:57:37 2023 +0000
+
+    fix output from declarativeLinter should be write not send
