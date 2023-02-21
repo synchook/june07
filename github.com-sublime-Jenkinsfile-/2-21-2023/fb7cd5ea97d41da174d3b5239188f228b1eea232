@@ -1,0 +1,5 @@
+commit fb7cd5ea97d41da174d3b5239188f228b1eea232
+Author: Will <667@onezerohosting.com>
+Date:   Tue Feb 21 12:50:50 2023 -0800
+
+    check for plink else default to ssh on windows
