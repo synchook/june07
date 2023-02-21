@@ -1,0 +1,5 @@
+commit 28fe67bb18ffb6ad15e3dcbe022d87b8acdb59ec
+Author: will <will@june07.com>
+Date:   Tue Feb 21 17:36:40 2023 +0000
+
+    log error to console
