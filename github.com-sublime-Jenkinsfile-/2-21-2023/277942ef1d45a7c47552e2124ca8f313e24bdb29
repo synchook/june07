@@ -1,0 +1,5 @@
+commit 277942ef1d45a7c47552e2124ca8f313e24bdb29
+Author: Will <667@onezerohosting.com>
+Date:   Mon Feb 20 18:33:22 2023 -0800
+
+    add jenkins_http_endpoint option
