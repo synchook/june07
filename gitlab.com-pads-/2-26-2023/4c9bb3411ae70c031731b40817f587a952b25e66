@@ -1,0 +1,5 @@
+commit 4c9bb3411ae70c031731b40817f587a952b25e66
+Author: will <will@june07.com>
+Date:   Sun Feb 26 18:40:07 2023 +0000
+
+    add userJobs public endpoint
