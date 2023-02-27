@@ -1,0 +1,6 @@
+commit bba9cca21a06608d6b0a8475bb82d4800e32c347
+Author: will <will@june07.com>
+Date:   Mon Feb 27 19:51:00 2023 +0000
+
+    test synchook exclude config
+    add jq raw and compact
