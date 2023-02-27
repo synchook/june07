@@ -1,0 +1,5 @@
+commit 4ac5877282f2f0924e325c1c64f7cdff9d8add40
+Author: will <will@june07.com>
+Date:   Mon Feb 27 18:51:03 2023 +0000
+
+    fix unauthenticated user display
