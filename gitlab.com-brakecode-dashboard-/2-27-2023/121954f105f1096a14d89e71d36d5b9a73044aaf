@@ -1,0 +1,5 @@
+commit 121954f105f1096a14d89e71d36d5b9a73044aaf
+Author: will <will@june07.com>
+Date:   Mon Feb 27 17:42:53 2023 +0000
+
+    expand provider handling to all available auth
