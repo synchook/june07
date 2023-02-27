@@ -1,0 +1,5 @@
+commit 36c8390c8f96d78715baa4c3c181d2b5dce9ba2a
+Author: will <will@june07.com>
+Date:   Mon Feb 27 23:47:13 2023 +0000
+
+    fix pop on undefined
