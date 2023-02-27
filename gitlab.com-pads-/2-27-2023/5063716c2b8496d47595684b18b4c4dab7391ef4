@@ -1,0 +1,5 @@
+commit 5063716c2b8496d47595684b18b4c4dab7391ef4
+Author: will <will@june07.com>
+Date:   Mon Feb 27 22:00:27 2023 +0000
+
+    normalize the sourceMapping since config is just provider name
