@@ -1,0 +1,5 @@
+commit e9690a11793ec8aeb5d3febebb3cac843cd8c444
+Author: will <will@june07.com>
+Date:   Mon Feb 27 15:47:13 2023 +0000
+
+    fix authenticatedGithubUser
