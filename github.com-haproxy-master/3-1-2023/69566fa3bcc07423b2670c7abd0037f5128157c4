@@ -1,0 +1,5 @@
+commit 69566fa3bcc07423b2670c7abd0037f5128157c4
+Author: Will <667@onezerohosting.com>
+Date:   Wed Mar 1 08:55:39 2023 -0800
+
+    fix synchook mobile backend acl
