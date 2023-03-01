@@ -1,0 +1,5 @@
+commit 8408ba3300c6414ab51ef7fb1cdc28c9f75d9cbe
+Author: will <will@june07.com>
+Date:   Wed Mar 1 00:08:52 2023 +0000
+
+    add git_user_email option
