@@ -1,0 +1,5 @@
+commit 493c698530c31cfedafd14163a479f15b8987bee
+Author: will <will@june07.com>
+Date:   Wed Mar 1 20:53:39 2023 +0000
+
+    add flipboard component to show latest commit
