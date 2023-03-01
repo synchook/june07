@@ -1,0 +1,5 @@
+commit 936e0bfed419eebe16abb5229f04f1f39b3c7bb5
+Author: will <will@june07.com>
+Date:   Wed Mar 1 17:49:17 2023 +0000
+
+    fix gitLog regex
