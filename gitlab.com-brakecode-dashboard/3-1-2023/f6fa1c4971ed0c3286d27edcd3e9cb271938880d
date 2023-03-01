@@ -1,0 +1,5 @@
+commit f6fa1c4971ed0c3286d27edcd3e9cb271938880d
+Author: will <will@june07.com>
+Date:   Wed Mar 1 22:01:11 2023 +0000
+
+    refactor so that state is properly reset on each message
