@@ -1,0 +1,5 @@
+commit 3c80601b3654f919bd14689a448058c7c0c6e530
+Author: will <will@june07.com>
+Date:   Sat Mar 4 20:36:19 2023 +0000
+
+    add mobile updates, remove unused code, limit display to past days
