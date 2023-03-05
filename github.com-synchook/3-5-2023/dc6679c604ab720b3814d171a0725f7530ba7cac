@@ -1,0 +1,5 @@
+commit dc6679c604ab720b3814d171a0725f7530ba7cac
+Author: will <will@june07.com>
+Date:   Sun Mar 5 01:29:20 2023 +0000
+
+    fix nda_safe_metadata needed quotes
