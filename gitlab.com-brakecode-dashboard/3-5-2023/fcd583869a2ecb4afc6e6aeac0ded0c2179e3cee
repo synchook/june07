@@ -1,0 +1,5 @@
+commit fcd583869a2ecb4afc6e6aeac0ded0c2179e3cee
+Author: will <will@june07.com>
+Date:   Sun Mar 5 03:28:22 2023 +0000
+
+    add start of tally UI and fix past month filter
