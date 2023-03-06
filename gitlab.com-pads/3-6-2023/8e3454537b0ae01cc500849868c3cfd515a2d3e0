@@ -1,0 +1,5 @@
+commit 8e3454537b0ae01cc500849868c3cfd515a2d3e0
+Author: will <will@june07.com>
+Date:   Mon Mar 6 19:35:49 2023 +0000
+
+    change sha regex to match both sha1 and sha256
