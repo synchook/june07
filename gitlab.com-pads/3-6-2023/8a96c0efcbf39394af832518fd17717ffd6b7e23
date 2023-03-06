@@ -1,0 +1,5 @@
+commit 8a96c0efcbf39394af832518fd17717ffd6b7e23
+Author: will <will@june07.com>
+Date:   Mon Mar 6 21:31:07 2023 +0000
+
+    fix event handler cleanup
