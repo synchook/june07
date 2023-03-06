@@ -1,0 +1,5 @@
+commit cb5d18086a57b641705c0360ffebc6565283ffb4
+Author: will <will@june07.com>
+Date:   Mon Mar 6 19:58:35 2023 +0000
+
+    change redacted log hash function
