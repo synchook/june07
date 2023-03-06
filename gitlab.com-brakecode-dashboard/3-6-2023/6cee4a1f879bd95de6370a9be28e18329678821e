@@ -1,0 +1,5 @@
+commit 6cee4a1f879bd95de6370a9be28e18329678821e
+Author: will <will@june07.com>
+Date:   Mon Mar 6 20:36:35 2023 +0000
+
+    fix shortened git log display
