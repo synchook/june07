@@ -1,0 +1,5 @@
+commit aaa9655448475e7f6de4e1ffbcf0994583bac7b9
+Author: will <will@june07.com>
+Date:   Fri Mar 10 21:24:01 2023 +0000
+
+    add socket.io redis adapter
