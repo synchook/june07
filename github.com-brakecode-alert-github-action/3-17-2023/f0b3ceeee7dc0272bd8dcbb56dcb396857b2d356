@@ -1,0 +1,5 @@
+commit f0b3ceeee7dc0272bd8dcbb56dcb396857b2d356
+Author: will <will@june07.com>
+Date:   Fri Mar 17 07:35:38 2023 +0000
+
+    fix: entrypoint.sh
