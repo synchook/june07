@@ -1,0 +1,5 @@
+commit 7d440a7d67ce89236de1d4a124deaac48f09ac2a
+Author: will <will@june07.com>
+Date:   Fri Mar 17 08:16:46 2023 +0000
+
+    update: remove curl verbosity
