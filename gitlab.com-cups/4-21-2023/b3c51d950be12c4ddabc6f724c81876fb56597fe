@@ -1,0 +1,5 @@
+commit b3c51d950be12c4ddabc6f724c81876fb56597fe
+Author: will <will@june07.com>
+Date:   Fri Apr 21 19:31:41 2023 +0000
+
+    feature: establish username from sessionId early
