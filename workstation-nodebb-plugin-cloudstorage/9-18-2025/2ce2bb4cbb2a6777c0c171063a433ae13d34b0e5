@@ -1,0 +1,6 @@
+commit 2ce2bb4cbb2a6777c0c171063a433ae13d34b0e5
+Merge: 4e044cc c3c0104
+Author: Will <will@onezerohosting.com>
+Date:   Thu Sep 18 15:57:26 2025 -0700
+
+    Merge branch 'master' of https://github.com/june07/nodebb-plugin-cloudstorage
