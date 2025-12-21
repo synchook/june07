@@ -1,0 +1,5 @@
+commit 8af8009fee9893d47f10e442c34b104170189f38
+Author: Will <will@onezerohosting.com>
+Date:   Sun Dec 21 07:47:12 2025 -0800
+
+    update deps; fix https://github.com/june07/sublet/issues/7
