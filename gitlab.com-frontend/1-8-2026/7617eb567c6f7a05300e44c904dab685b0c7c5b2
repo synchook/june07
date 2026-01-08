@@ -1,0 +1,5 @@
+commit 7617eb567c6f7a05300e44c904dab685b0c7c5b2
+Author: Will <will@onezerohosting.com>
+Date:   Thu Jan 8 10:21:07 2026 -0800
+
+    fix: height jank
