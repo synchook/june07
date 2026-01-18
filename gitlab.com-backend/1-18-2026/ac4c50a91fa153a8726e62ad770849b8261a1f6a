@@ -1,0 +1,5 @@
+commit ac4c50a91fa153a8726e62ad770849b8261a1f6a
+Author: Will <will@onezerohosting.com>
+Date:   Sun Jan 18 10:16:14 2026 -0800
+
+    fix: bad contrast on watermarks
