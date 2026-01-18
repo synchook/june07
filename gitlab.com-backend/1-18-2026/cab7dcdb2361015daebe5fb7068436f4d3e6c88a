@@ -1,0 +1,5 @@
+commit cab7dcdb2361015daebe5fb7068436f4d3e6c88a
+Author: Will <will@onezerohosting.com>
+Date:   Sun Jan 18 11:51:40 2026 -0800
+
+    fix: only recreate product links if neccessary
